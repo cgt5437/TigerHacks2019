@@ -8,7 +8,7 @@
   - [ ] Eye-Witness: Knows the word: tries to get guessors to find the word
   - [ ] Guessers: try guessing the word input by the Spy
   
-  
+  BIJGK JEOITJEWI JASD
 #### Procedure:
  - [ ] Eye-Witness is called by twilo, voice message tells him he is the witness
  - [ ] Everyone else gets a text: Guessers must reply with CONFIRM; Spy Inputs a word here
